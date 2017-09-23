@@ -1,0 +1,11 @@
+https://en.wikipedia.org/wiki/Enron
+https://wiki.python.org/moin/UsingPickle
+http://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
+https://seaborn.pydata.org/generated/seaborn.barplot.html
+https://stackoverflow.com/questions/31859285/rotate-tick-labels-for-seaborn-barplot
+https://www.quora.com/What-is-the-best-way-to-understand-the-terms-precision-and-recall
+
+
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
